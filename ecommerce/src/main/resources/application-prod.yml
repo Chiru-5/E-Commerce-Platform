@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ecommerce
+    username: root
+    password: Chiru@8500@0058
+  jpa:
+    hibernate:
+      ddl-auto: validate
